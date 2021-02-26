@@ -1,1 +1,1 @@
-# xsolla-docs-as-code
+#How to create a documentation site with Docsify and GitHub Pages
